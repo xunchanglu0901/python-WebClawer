@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     WebRequest
    Description :   Network Requests Class
-   Author :        J_hao
-   date：          2017/7/31
+   Author :        xcl
+   date：          2018/7/31
 -------------------------------------------------
    Change Activity:
-                   2017/7/31:
+                   2018/7/31:
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+__author__ = 'xcl'
 
 from requests.models import Response
 import requests
