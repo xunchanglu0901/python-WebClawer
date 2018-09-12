@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     ProxyCheck
    Description :   多线程验证useful_proxy
-   Author :        J_hao
-   date：          2017/9/26
+   Author :        xcl
+   date：          2018/8/26
 -------------------------------------------------
    Change Activity:
-                   2017/9/26: 多线程验证useful_proxy
+                   2018/8/26: 多线程验证useful_proxy
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+__author__ = 'xcl'
 
 import sys
 from threading import Thread
