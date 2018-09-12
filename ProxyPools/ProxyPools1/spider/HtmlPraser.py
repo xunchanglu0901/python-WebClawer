@@ -5,7 +5,7 @@ from util.IPAddress import IPAddresss
 import re
 from util.compatibility import text_
 
-__author__ = 'qiye'
+__author__ = 'xcl'
 from lxml import etree
 
 
