@@ -4,14 +4,14 @@
 -------------------------------------------------
    File Name：     GetConfig.py  
    Description :  fetch config from config.ini
-   Author :       JHao
-   date：          2016/12/3
+   Author :       xcl
+   date：          2017/12/3
 -------------------------------------------------
    Change Activity:
-                   2016/12/3: get db property func
+                   2017/12/3: get db property func
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 import os
 from Util.utilClass import ConfigParse
