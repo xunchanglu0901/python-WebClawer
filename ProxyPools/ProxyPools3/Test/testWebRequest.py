@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     testWebRequest
    Description :   test class WebRequest
-   Author :        J_hao
-   date：          2017/7/31
+   Author :        xcl
+   date：          2018/7/31
 -------------------------------------------------
    Change Activity:
-                   2017/7/31: function testWebRequest
+                   2018/7/31: function testWebRequest
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+__author__ = 'xcl'
 
 from Util.WebRequest import WebRequest
 
