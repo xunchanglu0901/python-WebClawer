@@ -4,13 +4,13 @@
 -------------------------------------------------
    File Name：     ProxyRefreshSchedule.py
    Description :  代理定时刷新
-   Author :       JHao
-   date：          2016/12/4
+   Author :        xcl
+   date：          2017/12/4
 -------------------------------------------------
    Change Activity:
-                   2016/12/4: 代理定时刷新
-                   2017/03/06: 使用LogHandler添加日志
-                   2017/04/26: raw_proxy_queue验证通过但useful_proxy_queue中已经存在的代理不在放入
+                   2017/12/4: 代理定时刷新
+                   2018/03/06: 使用LogHandler添加日志
+                   2018/04/26: raw_proxy_queue验证通过但useful_proxy_queue中已经存在的代理不在放入
 -------------------------------------------------
 """
 
