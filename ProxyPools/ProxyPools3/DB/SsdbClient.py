@@ -4,16 +4,15 @@
 -------------------------------------------------
    File Name：     SsdbClient.py
    Description :  封装SSDB操作
-   Author :       JHao
-   date：          2016/12/2
+   Author :       xcl
+   date：          2017/12/2
 -------------------------------------------------
    Change Activity:
-                   2016/12/2:
-                   2017/09/22: PY3中 redis-py返回的数据是bytes型
-                   2017/09/27: 修改pop()方法 返回{proxy:value}字典
+                   2017/12/2:PY3中 redis-py返回的数据是bytes型
+                            :修改pop()方法 返回{proxy:value}字典
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 from Util import EnvUtil
 
