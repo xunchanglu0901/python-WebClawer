@@ -1,7 +1,7 @@
 # coding:utf-8
 from decimal import Decimal
 
-__author__ = 'Xaxdus'
+__author__ = 'xcl'
 
 
 # list = ["www.baidu.com/%s" %m for m in ['index']+range(1,5)]
