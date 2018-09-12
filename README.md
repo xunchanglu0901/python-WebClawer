@@ -6,3 +6,4 @@
 ### ProxyPools 代理池
 ### CookiesPool 可扩展的Cookies池，目前对接了新浪微博
 ### WeixinMaster 使用代理池爬取搜狗的微信文章
+### WeiboMaster 使用Scrapy模拟登录微博并爬取微博内容
