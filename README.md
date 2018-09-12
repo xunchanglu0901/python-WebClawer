@@ -8,8 +8,8 @@
 ### WeixinMaster 使用代理池爬取搜狗的微信文章
 ### WeiboMaster 使用Scrapy模拟登录微博并爬取微博内容
 ### ScrapySeleniumTestMaster 使用Scrapy框架对接Selenium进行淘宝商品的爬取
-### ScrapyRedisMaster 基于scrapy-redis的分布式爬虫框架
+### ScrapyRedisMaster 基于Scrapy-Redis的分布式爬虫框架
 ### ScrapyTutorialMaster 使用Scrapy爬取Quotes网站完成Scrapy的简单入门
 ### ScrapyDownloaderTestMaster 针对Scrapy框架中Download Middleware的用法进行学习
 ### ScrapyRedisBloomFilter 入门Scrapy爬虫去重效率优化之BloomFilter算法的对接
-### ScrapySplashTestMaster 
+### ScrapySplashTestMaster 使用Scrapy-Splash进行淘宝商品的爬取
