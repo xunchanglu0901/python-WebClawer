@@ -4,11 +4,11 @@
 -------------------------------------------------
    File Name：     utilFunction.py
    Description :  tool function
-   Author :       JHao
-   date：          2016/11/25
+   Author :        xcl
+   date：          2017/11/25
 -------------------------------------------------
    Change Activity:
-                   2016/11/25: 添加robustCrawl、verifyProxy、getHtmlTree
+                   2017/11/25: 添加robustCrawl、verifyProxy、getHtmlTree
 -------------------------------------------------
 """
 import requests
