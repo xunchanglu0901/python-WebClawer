@@ -10,3 +10,4 @@
 ### ScrapySeleniumTestMaster 使用Scrapy框架对接Selenium进行淘宝商品的爬取
 ### ScrapyRedisMaster 基于scrapy-redis的分布式爬虫框架
 ### ScrapyTutorialMaster 使用Scrapy爬取Quotes网站完成Scrapy的简单入门
+### ScrapyDownloaderTestMaster 针对Scrapy框架中Download Middleware的用法进行学习
