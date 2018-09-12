@@ -11,3 +11,4 @@
 ### ScrapyRedisMaster 基于scrapy-redis的分布式爬虫框架
 ### ScrapyTutorialMaster 使用Scrapy爬取Quotes网站完成Scrapy的简单入门
 ### ScrapyDownloaderTestMaster 针对Scrapy框架中Download Middleware的用法进行学习
+### ScrapyRedisBloomFilter 入门Scrapy爬虫去重效率优化之BloomFilter的算法的对接
