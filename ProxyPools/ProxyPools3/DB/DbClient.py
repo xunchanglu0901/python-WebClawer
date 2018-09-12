@@ -4,14 +4,14 @@
 -------------------------------------------------
    File Name：    DbClient.py
    Description :  DB工厂类
-   Author :       JHao
-   date：          2016/12/2
+   Author :       xcl
+   date：          2017/12/2
 -------------------------------------------------
    Change Activity:
-                   2016/12/2:
+                   2017/12/2:
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 import os
 import sys
