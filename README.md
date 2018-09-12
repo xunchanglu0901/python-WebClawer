@@ -5,4 +5,4 @@
 ### Project	多个爬虫项目完整代码
 ### ProxyPools 代理池
 ### CookiesPool 可扩展的Cookies池，目前对接了新浪微博
-### WeixinMaster 使用代理池爬取搜狗微信文章
+### WeixinMaster 使用代理池爬取搜狗的微信文章
