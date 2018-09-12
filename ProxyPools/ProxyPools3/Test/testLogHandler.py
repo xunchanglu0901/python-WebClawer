@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     testLogHandler
    Description :
-   Author :        J_hao
-   date：          2017/8/2
+   Author :        xcl
+   date：          2018/8/2
 -------------------------------------------------
    Change Activity:
-                   2017/8/2:
+                   2018/8/2:
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+__author__ = 'xcl'
 
 from Util.LogHandler import LogHandler
 
