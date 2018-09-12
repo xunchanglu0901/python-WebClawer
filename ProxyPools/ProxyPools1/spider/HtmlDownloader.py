@@ -5,7 +5,7 @@ import config
 import json
 from db.DataStore import sqlhelper
 
-__author__ = 'qiye'
+__author__ = 'xcl'
 
 import requests
 import chardet
