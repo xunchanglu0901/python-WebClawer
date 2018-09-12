@@ -13,3 +13,4 @@
 ### ScrapyDownloaderTestMaster 针对Scrapy框架中Download Middleware的用法进行学习
 ### ScrapyRedisBloomFilter 入门Scrapy爬虫去重效率优化之BloomFilter算法的对接
 ### ScrapySplashTestMaster 使用Scrapy-Splash进行淘宝商品的爬取
+### Images360Master 使用Scrapy从360图片网站下载图像
