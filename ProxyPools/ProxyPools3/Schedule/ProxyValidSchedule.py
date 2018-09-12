@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     ProxyValidSchedule.py
    Description :  验证useful_proxy_queue中的代理,将不可用的移出
-   Author :       JHao
-   date：          2017/3/31
+   Author :        xcl
+   date：          2018/3/31
 -------------------------------------------------
    Change Activity:
-                   2017/3/31: 验证useful_proxy_queue中的代理
+                   2018/3/31: 验证useful_proxy_queue中的代理
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 import sys
 import time
