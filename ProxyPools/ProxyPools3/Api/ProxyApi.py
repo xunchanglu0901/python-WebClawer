@@ -4,14 +4,14 @@
 -------------------------------------------------
    File Name：     ProxyApi.py  
    Description :  
-   Author :       JHao
-   date：          2016/12/4
+   Author :       xcl
+   date：          2017/12/4
 -------------------------------------------------
    Change Activity:
-                   2016/12/4: 
+                   2017/12/4: 
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 import sys
 from werkzeug.wrappers import Response
