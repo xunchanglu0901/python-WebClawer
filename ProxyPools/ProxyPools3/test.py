@@ -3,13 +3,13 @@
 -------------------------------------------------
    File Name：     test.py  
    Description :  
-   Author :       JHao
-   date：          2017/3/7
+   Author :       xcl
+   date：          2018/3/7
 -------------------------------------------------
    Change Activity:
-                   2017/3/7: 
+                   2018/3/7: 
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 from Schedule import ProxyRefreshSchedule
