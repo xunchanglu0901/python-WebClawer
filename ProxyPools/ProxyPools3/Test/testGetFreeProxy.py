@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     testGetFreeProxy
    Description :   test model ProxyGetter/getFreeProxy
-   Author :        J_hao
-   date：          2017/7/31
+   Author :        xcl
+   date：          2018/7/31
 -------------------------------------------------
    Change Activity:
-                   2017/7/31:function testGetFreeProxy
+                   2018/7/31:function testGetFreeProxy
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+__author__ = 'xcl'
 
 import re
 import sys
