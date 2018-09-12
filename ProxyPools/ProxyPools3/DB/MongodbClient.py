@@ -3,15 +3,15 @@
 -------------------------------------------------
    File Name：    MongodbClient.py
    Description :  封装mongodb操作
-   Author :       JHao netAir
-   date：          2017/3/3
+   Author :       xcl
+   date：          2018/3/3
 -------------------------------------------------
    Change Activity:
-                   2017/3/3:
-                   2017/9/26:完成对mongodb的支持
+                   2018/3/3:
+                   2018/9/26:完成对mongodb的支持
 -------------------------------------------------
 """
-__author__ = 'Maps netAir'
+__author__ = 'xcl'
 
 from pymongo import MongoClient
 
