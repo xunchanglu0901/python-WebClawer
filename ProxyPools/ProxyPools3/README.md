@@ -1,12 +1,5 @@
 
 爬虫IP代理池
-=======
-[![Build Status](https://travis-ci.org/jhao104/proxy_pool.svg?branch=master)](https://travis-ci.org/jhao104/proxy_pool)
-[![](https://img.shields.io/badge/Powered%20by-@j_hao104-green.svg)](http://www.spiderpy.cn/blog/)
-[![Requirements Status](https://requires.io/github/jhao104/proxy_pool/requirements.svg?branch=master)](https://requires.io/github/jhao104/proxy_pool/requirements/?branch=master)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/jhao104/proxy_pool/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/jhao104/proxy_pool.svg)](https://github.com/jhao104/proxy_pool/graphs/contributors)
-[![](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/jhao104/proxy_pool)
 
     ______                        ______             _
     | ___ \_                      | ___ \           | |
@@ -17,7 +10,7 @@
                            __ / /
                           /___ /
 
-##### [介绍文档](https://github.com/jhao104/proxy_pool/blob/master/doc/introduce.md)
+##### [介绍]
 
 * 支持版本: ![](https://img.shields.io/badge/Python-2.x-green.svg) ![](https://img.shields.io/badge/Python-3.x-blue.svg)
 
@@ -163,25 +156,3 @@ freeProxyCustom  = 1  # 确保名字和你添加方法名字一致
 
 
 　　`ProxyRefreshSchedule`会每隔一段时间抓取一次代理，下次抓取时会自动识别调用你定义的方法。
-
-### 问题反馈
-
-　　任何问题欢迎在[Issues](https://github.com/jhao104/proxy_pool/issues) 中反馈，如果没有账号可以去 我的[博客](http://www.spiderpy.cn/blog/message)中留言。
-
-　　你的反馈会让此项目变得更加完美。
-
-### 贡献代码
-
-　　本项目仅作为基本的通用的代理池架构，不接收特有功能(当然,不限于特别好的idea)。
-
-　　本项目依然不够完善，如果发现bug或有新的功能添加，请在[Issues](https://github.com/jhao104/proxy_pool/issues)中提交bug(或新功能)描述，在确认后提交你的代码。
-
-　　这里感谢以下contributor的无私奉献：
-
-　　[@kangnwh](https://github.com/kangnwh)| [@bobobo80](https://github.com/bobobo80)| [@halleywj](https://github.com/halleywj)| [@newlyedward](https://github.com/newlyedward)| [@wang-ye](https://github.com/wang-ye)| [@gladmo](https://github.com/gladmo)| [@bernieyangmh](https://github.com/bernieyangmh)| [@PythonYXY](https://github.com/PythonYXY)| [@zuijiawoniu](https://github.com/zuijiawoniu)| [@netAir](https://github.com/netAir)| [@scil](https://github.com/scil)| [@tangrela](https://github.com/tangrela)| [@highroom](https://github.com/highroom)| [@luocaodan](https://github.com/luocaodan)
-
-
-### Release Notes
-
-   [release notes](https://github.com/jhao104/proxy_pool/blob/master/doc/release_notes.md)
-
