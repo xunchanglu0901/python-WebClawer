@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     main.py  
    Description :  运行主函数
-   Author :       JHao
-   date：          2017/4/1
+   Author :       xcl
+   date：          2018/4/1
 -------------------------------------------------
    Change Activity:
-                   2017/4/1: 
+                   2018/4/1: 
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 import sys
 from multiprocessing import Process
