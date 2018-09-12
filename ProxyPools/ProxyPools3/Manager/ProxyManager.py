@@ -4,14 +4,14 @@
 -------------------------------------------------
    File Name：     ProxyManager.py  
    Description :  
-   Author :       JHao
+   Author :       xcl
    date：          2016/12/3
 -------------------------------------------------
    Change Activity:
                    2016/12/3: 
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 import random
 
