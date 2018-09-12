@@ -1,7 +1,7 @@
 # coding:utf-8
 from lxml import etree
 
-__author__ = 'Xaxdus'
+__author__ = 'xcl'
 
 html = '''
 
