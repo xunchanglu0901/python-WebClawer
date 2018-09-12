@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     EnvUtil
    Description :   环境相关
-   Author :        J_hao
-   date：          2017/9/18
+   Author :        xcl
+   date：          2018/8/18
 -------------------------------------------------
    Change Activity:
-                   2017/9/18: 区分Python版本
+                   2018/8/18: 区分Python版本
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+__author__ = 'xcl'
 
 import sys
 
