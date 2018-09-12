@@ -4,15 +4,15 @@
 -------------------------------------------------
    File Name：     utilClass.py  
    Description :  tool class
-   Author :       JHao
-   date：          2016/12/3
+   Author :       xcl
+   date：          2017/12/3
 -------------------------------------------------
    Change Activity:
-                   2016/12/3: Class LazyProperty
-                   2016/12/4: rewrite ConfigParser
+                   2017/12/3: Class LazyProperty
+                   2017/12/4: rewrite ConfigParser
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'xcl'
 
 
 class LazyProperty(object):
