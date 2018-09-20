@@ -1,5 +1,5 @@
 # python-WebClawer
-### 基于《Python3爬虫》的学习
+### 基于《Python3网络爬虫开发实战》的学习
 ### Database 几种常用数据库 
 ### IdentificationVerificationCode 几种常用的识别多种验证码的方式
 ### Lib 相关扩展库
